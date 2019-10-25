@@ -76,3 +76,8 @@ p.main{
 	padding-top: 33px;
 	padding-bottom: 100px;
 }
+
+#vector1{
+	max-width: 594px;
+	height: auto;
+}
