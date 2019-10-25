@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1595.497" height="1443.309" viewBox="0 0 1595.497 1443.309">
+  <g id="path" transform="translate(-151.751 -1109)">
+    <path id="Path_1" data-name="Path 1" d="M1550,952.012v159.1l-928.432,2.44v373.1l1545.881-2.44v463.131H724.612v418.46H1403.43" transform="translate(-445 185)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(262 2105)" fill="#fff" stroke="#bd302f" stroke-width="3">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="25.5" fill="none"/>
+    </g>
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(1078 1109)" fill="#fff" stroke="#1fbc99" stroke-width="3">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(1697.751 2124.5) rotate(-45)" fill="#fff" stroke="#3397e1" stroke-width="3">
+      <rect width="35" height="35" stroke="none"/>
+      <rect x="1.5" y="1.5" width="32" height="32" fill="none"/>
+    </g>
+    <text id="X" transform="translate(1716 2131)" fill="#3397e1" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.003em"><tspan x="0" y="0">X</tspan></text>
+    <g id="Rectangle_155" data-name="Rectangle 155" transform="translate(151.751 1300.5) rotate(-45)" fill="#fff" stroke="#3397e1" stroke-width="3">
+      <rect width="35" height="35" stroke="none"/>
+      <rect x="1.5" y="1.5" width="32" height="32" fill="none"/>
+    </g>
+    <text id="X-2" data-name="X" transform="translate(170 1307)" fill="#3397e1" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.003em"><tspan x="0" y="0">X</tspan></text>
+  </g>
+</svg>
